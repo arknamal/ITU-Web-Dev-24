@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+    <link rel="stylesheet" href="index2.css">
+</head>
+<body>
+
+    <!-- Header with Profile Picture and Name -->
+    <header id="header">
+        <div id="profile">
+            <img id="profile-pic" src="https://via.placeholder.com/100" alt="Profile Picture">
+            <h1 id="profile-name">John Doe</h1>
+        </div>
+    </header>
+
+    <!-- Navigation Bar -->
+    <nav id="navbar">
+        <ul>
+            <li class="dropdown">About
+                <ul class="dropdown-content">
+                    <li><a href="#">Biography</a></li>
+                    <li><a href="#">Career</a></li>
+                    <li><a href="#">Education</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">Projects
+                <ul class="dropdown-content">
+                    <li><a href="#">Project 1</a></li>
+                    <li><a href="#">Project 2</a></li>
+                    <li><a href="#">Project 3</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">Awards
+                <ul class="dropdown-content">
+                    <li><a href="#">Award 1</a></li>
+                    <li><a href="#">Award 2</a></li>
+                    <li><a href="#">Award 3</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Linktree</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Body Content -->
+    <main id="main-content">
+        <div class="column" id="column-left">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac elit quis velit lacinia commodo non a nibh. Nulla facilisi.</p>
+            <p>Nullam nec ipsum sed odio volutpat sollicitudin. Praesent accumsan vitae ligula vitae aliquet. Etiam sodales fringilla sapien a auctor.</p>
+        </div>
+        <div class="column" id="column-right">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur justo sit amet turpis consequat, a laoreet erat feugiat.</p>
+            <p>In efficitur purus vel sapien faucibus, at gravida justo aliquam. Integer non tincidunt velit, ut venenatis est.</p>
+        </div>
+    </main>
+
+    <!-- Button for Changing Color -->
+    <div id="color-change-section">
+        <button id="color-button" onclick="changeColor()">Change Color</button>
+        <p id="color-info">Color: None</p>
+    </div>
+
+    <!-- Embedded Video -->
+    <div id="video-section">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <p>© 2024 John Doe. All rights reserved.</p>
+    </footer>
+
+    <script src="index2.js"></script>
+</body>
+</html>
