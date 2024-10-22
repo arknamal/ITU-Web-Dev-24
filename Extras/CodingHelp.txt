@@ -1,0 +1,45 @@
+You can use the money to buy coding books off Amazon. Also, a lot of resources are free.
+
+I'm going to leave you a copy-pasted answer I give people of resources to learn, I leave these resources for aspiring junior developers:
+
+FreeCodeCamp:
+
+https://www.freecodecamp.org/
+
+https://github.com/freeCodeCamp/freeCodeCamp
+
+GitHub free CS education:
+
+https://github.com/ossu/computer-science
+
+Also, try to learn the stuff in this roadmap:
+
+https://roadmap.sh/full-stack
+
+After that you can continue with the frontend or backend roadmap on:
+
+https://roadmap.sh/
+
+Oh, and to get started you can take this free Harvard CS-50 Course:
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+There's a list of university Computer Science courses at:
+
+https://cse.engin.umich.edu/academics/course-resources/cse-course-info/
+
+For each of those courses you can find the syllabus online (maybe click the link for the course or Google search "UMich" + Course Name + syllabus). The textbook for the course is in the syllabus. You can use your stipend to buy used versions of the textbooks.
+
+To learn the command line and the command line tool git, here is a missing semester of Computer Science education:
+
+https://missing.csail.mit.edu/
+
+Once you've gone through that stuff and have a nice GitHub with pinned repositories and a nice LinkedIn with a filled out projects section, here is how you study for the coding exam to get a computer programming job:
+
+https://github.com/JohnReedLOL/How-to-prep-for-the-programmer-job-interview
+
+Cracking the Coding Interview by Gayle McDowell is a great review book before the interview but it's not the best to learn things for the first time.
+
+Also see:
+
+https://www.reddit.com/r/SoftwareEngineering/s/HPHKS8OgSp
